@@ -2,10 +2,10 @@
 <widget id="com.racsti.hivlessphl" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>HIVLessPHL</name>
     <description>
-        A blank PhoneGap app.
+        Cross-platform mobile application for HIV Awareness and Prevention in the Philippines
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="tristanbaluyut@hotmail.com">
+        Tristan Eric Baluyut
     </author>
     <content src="index.html" />
     <access origin="*" />
